@@ -1,6 +1,6 @@
 {
-  "name": "require-all",
-  "version": "1.0.0",
+  "name": "@otoniel19/require-all",
+  "version": "1.0.1",
   "description": "require-all import all from a module",
   "main": "index.js",
   "scripts": {

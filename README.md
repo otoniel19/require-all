@@ -5,7 +5,7 @@
 - usage
 
 ```js
-const reqAll = require("require-all");
+const reqAll = require("@otoniel19/require-all");
 reqAll("fs"); // inform the module name
 
 const test = readFileSync("./test.js").toString();

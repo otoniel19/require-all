@@ -1,0 +1,25 @@
+{
+  "name": "require-all",
+  "version": "1.0.0",
+  "description": "require-all import all from a module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "types": "./types",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otoniel19/require-all.git"
+  },
+  "keywords": [
+    "require",
+    "node",
+    "easy"
+  ],
+  "author": "otoniel19",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/otoniel19/require-all/issues"
+  },
+  "homepage": "https://github.com/otoniel19/require-all#readme"
+}
